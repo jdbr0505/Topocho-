@@ -1,0 +1,14 @@
+C:\Users\Jose Daniel Briceño\source\repos\Pelidata\Pelidata\bin\Debug\Pelidata.exe.config
+C:\Users\Jose Daniel Briceño\source\repos\Pelidata\Pelidata\bin\Debug\Pelidata.exe
+C:\Users\Jose Daniel Briceño\source\repos\Pelidata\Pelidata\bin\Debug\Pelidata.pdb
+C:\Users\Jose Daniel Briceño\source\repos\Pelidata\Pelidata\bin\Debug\Pelidata.xml
+C:\Users\Jose Daniel Briceño\source\repos\Pelidata\Pelidata\obj\Debug\Pelidata.vbproj.AssemblyReference.cache
+C:\Users\Jose Daniel Briceño\source\repos\Pelidata\Pelidata\obj\Debug\Pelidata.Credits.resources
+C:\Users\Jose Daniel Briceño\source\repos\Pelidata\Pelidata\obj\Debug\Pelidata.DatabaseForm.resources
+C:\Users\Jose Daniel Briceño\source\repos\Pelidata\Pelidata\obj\Debug\Pelidata.Login.resources
+C:\Users\Jose Daniel Briceño\source\repos\Pelidata\Pelidata\obj\Debug\Pelidata.Resources.resources
+C:\Users\Jose Daniel Briceño\source\repos\Pelidata\Pelidata\obj\Debug\Pelidata.vbproj.GenerateResource.cache
+C:\Users\Jose Daniel Briceño\source\repos\Pelidata\Pelidata\obj\Debug\Pelidata.vbproj.CoreCompileInputs.cache
+C:\Users\Jose Daniel Briceño\source\repos\Pelidata\Pelidata\obj\Debug\Pelidata.exe
+C:\Users\Jose Daniel Briceño\source\repos\Pelidata\Pelidata\obj\Debug\Pelidata.xml
+C:\Users\Jose Daniel Briceño\source\repos\Pelidata\Pelidata\obj\Debug\Pelidata.pdb
